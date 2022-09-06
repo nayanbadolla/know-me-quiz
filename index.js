@@ -10,7 +10,7 @@ var user = read.question("Enter name:")
 // console.log(user)
 
 var q1 = {
-  q: "Nayan's dream Sunday",
+  q: "Nayan's dream Sunday:",
   a: "reading"
 }
 
